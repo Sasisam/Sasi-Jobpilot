@@ -1,0 +1,8 @@
+{
+  "_help": "Staffing / consulting agencies whose posts are usually contract, C2H or third-party payroll. Names are matched as whole words, case-insensitive. Add or remove freely, or use 'Never apply' on a job card.",
+  "agencies": [
+    "quess", "teamlease", "randstad", "adecco", "manpowergroup", "kelly services", "ciel hr", "xpheno",
+    "careernet", "gi group", "michael page", "hays", "robert walters", "experis", "collabera", "mastech",
+    "compunnel", "ampstek", "nityo", "apex systems", "insight global", "teksystems", "allegis"
+  ]
+}

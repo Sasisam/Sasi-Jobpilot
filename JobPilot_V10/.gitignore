@@ -1,0 +1,23 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# local data (your PC only)
+data/jobpilot.db
+data/shots/
+data/browser_profiles/
+data/portals.json
+
+# resumes (private)
+resume/*.pdf
+resume/*.docx
+resume/*.txt
+resume/*.md
+
+# secrets
+.env
+.env.local
+
+# next.js template leftovers (not used)
+.next/
